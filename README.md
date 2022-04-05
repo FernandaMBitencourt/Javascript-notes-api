@@ -1,1 +1,1 @@
-# JavascriptNotesApi
+# javascript-notes-api
